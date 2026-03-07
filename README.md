@@ -17,8 +17,6 @@ arcane darkness/legacy for AutoReso & CaveObby..
 have atleast 30 fps and decent ping ( 0 - 100 )
 
 keep in mind macroing for too long (10+ hours) will cause roblox to memory leak which will bring ur fps down which will sometimes cause paths to break
-==============================================
-
 
 # Current features
 
