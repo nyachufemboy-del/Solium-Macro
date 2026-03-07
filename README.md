@@ -25,10 +25,14 @@ my roblox : lapsisawesome
 
 # Current features
 
-Auto craft Bound + Heavenly potions (will expand to include other potions in future versions)
-Auto watch ad (automatically watches jake's ad)
-Auto Do Obby (automatically completes the normal obby. REQUIRES ANY SAILOR VARIENT)
-Auto Cave Obby (automatically completes the cave obby. REQUIRES ARCANE : DARK & 0.36 ROBLOX SENSITIVITY)
-Auto Resonance (WIP AND EXTREMALY BUGGY. automatically uses Resonance. (REQUIRES ARCANE : DARK/LEGACY & 0.36 ROBLOX SENSITIVITY)
+1. Auto craft Bound + Heavenly potions (will expand to include other potions in future versions)
 
-Auto Fish (automatically fishes and sells them after completing all enabled objectives)
+2. Auto watch ad (automatically watches jake's ad)
+
+3. Auto Do Obby (automatically completes the normal obby. REQUIRES ANY SAILOR VARIENT)
+
+4. Auto Cave Obby (automatically completes the cave obby. REQUIRES ARCANE : DARK & 0.36 ROBLOX SENSITIVITY)
+
+5. Auto Resonance (WIP AND EXTREMALY BUGGY. automatically uses Resonance. (REQUIRES ARCANE : DARK/LEGACY & 0.36 ROBLOX SENSITIVITY)
+
+6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
