@@ -17,9 +17,6 @@ arcane darkness/legacy for AutoReso & CaveObby..
 have atleast 30 fps and decent ping ( 0 - 100 )
 
 keep in mind macroing for too long (10+ hours) will cause roblox to memory leak which will bring ur fps down which will sometimes cause paths to break
-
-my discord : 41ht
-my roblox : lapsisawesome
 ==============================================
 
 
@@ -38,5 +35,5 @@ my roblox : lapsisawesome
 6. Auto Fish (automatically fishes and sells them after completing all enabled objectives)
 
 
-my discord : 41ht
-my roblox : lapsisawesome
+# my discord : 41ht
+# my roblox : lapsisawesome
