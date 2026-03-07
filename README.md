@@ -4,6 +4,8 @@
 
 Solium is entirely coded in AutoHotKey V1 and requires it to be used : https://www.autohotkey.com/
 
+# Run Solium.ahk to launch the program
+
 
 Solium requires vip for paths to work. and requires specific auras for some paths to work. those are listed below.
 
